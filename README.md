@@ -15,3 +15,6 @@
 
 ### Learning
 <img align="center" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+### Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kcvvm103s1z8d9ggoyscwrvxl&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
