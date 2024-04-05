@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://killsec.lol/@"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=280137&center=true&width=1200&height=140&lines=S+L+V+T;K+I+L+L+S+E+C;/+H+O+R+R+I+F+Y"></a>
+  <a href="https://killsec.lol/@"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=280137&center=true&width=1200&height=140&lines=S+L+V+T;N+E+X+U+S;/+H+O+R+R+I+F+Y"></a>
 </p>
 
 <div align="center">
