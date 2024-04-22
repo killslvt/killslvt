@@ -9,7 +9,8 @@
 <a href="https://discordapp.com/users/852670052947853363" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/852670052947853363.png"/></a>
 
 🌐・**Website: [https://intruder.lol/fentanyl/](https://intruder.lol/)** 
-🌐・**<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  I Only Do HTML Now** 
+
+🌐・**I Only Do HTML Now** 
 
 ### Languages
 <img align="center" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
