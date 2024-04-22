@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://killsec.lol/@"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=280137&center=true&width=1200&height=140&lines=S+L+V+T;N+E+X+U+S;/+H+O+R+R+I+F+Y"></a>
+  <a href="https://intruder.lol/"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=280137&center=true&width=1200&height=140&lines=S+L+V+T;/+T+E+R+M"></a>
 </p>
 
 <div align="center">
@@ -8,7 +8,8 @@
 
 <a href="https://discordapp.com/users/852670052947853363" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/852670052947853363.png"/></a>
 
-🌐・**Website: [https://intruder.lol/fentanyl/](https://intruder.lol/fentanyl/)** 
+🌐・**Website: [https://intruder.lol/fentanyl/](https://intruder.lol/)** 
+🌐・**<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  I Only Do HTML Now** 
 
 ### Languages
 <img align="center" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
