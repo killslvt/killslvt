@@ -10,7 +10,7 @@
 
 🌐・**Website: [https://intruder.lol/fentanyl/](https://intruder.lol/)** 
 
-🌐・**I Only Do HTML Now** 
+🌐・**I am a C# WinForms and WPF UI designer with experience in HTML & Python. Recently, I've begun exploring WPF/XAML design to further enhance my skills.** 
 
 ### Languages
 <img align="center" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
