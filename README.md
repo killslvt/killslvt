@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://intruder.lol/"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=280137&center=true&width=1200&height=140&lines=S+L+V+T;j+v+n+e"></a>
+  <a href="https://intruder.lol/"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=280137&center=true&width=1200&height=140&lines=K+I+L+L+S+L+V+T;j+v+n+e;J+V+N+C+K+O"></a>
 </p>
 
 <div align="center">
