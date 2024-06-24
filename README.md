@@ -18,5 +18,5 @@
 <img align="center" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="center" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" />
 
-### Idk
+### Jvnko
 <img align="center" alt="jvnko" width="300px" src="https://media1.tenor.com/m/505juPr22V8AAAAC/sewerslvt-jvnko.gif" />
