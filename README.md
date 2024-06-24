@@ -24,7 +24,7 @@
       <img align="center" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" />
     </div>
   </div>
-  <div>
+  <div align="center">
     <img src="https://media1.tenor.com/m/505juPr22V8AAAAC/sewerslvt-jvnko.gif" width="300" style="float: right;">
   </div>
 </div>
