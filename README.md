@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://intruder.lol/"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=280137&center=true&width=1200&height=140&lines=K+I+L+L+S+L+V+T;j+v+n+e;J+V+N+K+O"></a>
+  <a href="https://intruder.lol/"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=7100FF&center=true&width=1200&height=140&lines=K+I+L+L+S+L+V+T;X+V+I+I+I"></a>
 </p>
 
 <div align="center">
@@ -18,5 +18,5 @@
 <img align="center" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="center" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" />
 
-### Jvnko
-<img align="center" alt="jvnko" width="300px" src="https://media1.tenor.com/m/505juPr22V8AAAAC/sewerslvt-jvnko.gif" />
+### Thats All
+<img align="center" alt="idk" width="300px" src="https://cdn.discordapp.com/attachments/1339406595700031578/1400572049008885830/snaplytics_converted_gif.gif" />
