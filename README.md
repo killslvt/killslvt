@@ -19,4 +19,4 @@
 <img align="center" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" />
 
 ### Thats All
-<img align="center" alt="idk" width="300px" src="https://cdn.discordapp.com/attachments/1339406595700031578/1400572049008885830/snaplytics_converted_gif.gif" />
+<img align="center" alt="idk" width="300px" src="https://cdn.discordapp.com/attachments/1339406595700031578/1400572049008885830/snaplytics_converted_gif.gif?ex=688dc89d&is=688c771d&hm=4fcdf52e386b81f13e3ac8a71415e095366c97adc90bd31cc8cd68e9cc164cb9&" />
