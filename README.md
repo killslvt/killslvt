@@ -6,9 +6,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kcvvm103s1z8d9ggoyscwrvxl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<a href="https://discordapp.com/users/852701540463804456" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/852701540463804456.png"/></a>
-
-🌐・**Website: [https://killsec.lol/](https://killsec.lol/)** 
+ ###Links
+[killsec](https://killsec.lol/)
+[Fail Society](https://killsec.lol/)
 
 🌐・**I am a C# WinForms and WPF UI designer with experience in HTML & Python. Recently, I've begun exploring WPF/XAML design to further enhance my skills.** 
 
