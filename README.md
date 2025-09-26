@@ -16,7 +16,7 @@
 
 ## Links
 - [Fail Society](https://killsec.lol/)  
-- [Main Site](https://intruder.lol/)  
+- [Main Site](https://gorestars.lol/)  
 
 ---
 
