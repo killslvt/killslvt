@@ -37,5 +37,5 @@
 
 ## <3
 <p align="center">
-  <img alt="gif" width="350px" src="https://cdn.discordapp.com/attachments/1339406595700031578/1400572049008885830/snaplytics_converted_gif.gif?ex=688dc89d&is=688c771d&hm=4fcdf52e386b81f13e3ac8a71415e095366c97adc90bd31cc8cd68e9cc164cb9&"/>
+  <img alt="gif" width="350px" src="https://tenor.com/view/jvne-jvmo-jvnko-junko-fumo-gif-11862198573314392719"/>
 </p>
