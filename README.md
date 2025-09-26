@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://intruder.lol/"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=7100FF&center=true&width=1200&height=140&lines=K+I+L+L+S+L+V+T;X+V+I+I+I"></a>
+  <a href="https://intruder.lol/"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=8B0000&center=true&width=1200&height=140&lines=K+I+L+L+S+L+V+T;X+V+I+I+I"></a>
 </p>
 
 <div align="center">
@@ -7,7 +7,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kcvvm103s1z8d9ggoyscwrvxl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
  ### Links
-[killsec](https://killsec.lol/)
 
 [Fail Society](https://killsec.lol/)
 
