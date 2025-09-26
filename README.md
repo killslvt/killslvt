@@ -37,5 +37,5 @@
 
 ## <3
 <p align="center">
-  <img alt="gif" width="350px" src="https://tenor.com/view/jvne-jvmo-jvnko-junko-fumo-gif-11862198573314392719"/>
+  <img alt="gif" width="350px" src="https://media1.tenor.com/m/pJ7-wPmMwo8AAAAd/jvne-jvmo.gif"/>
 </p>
