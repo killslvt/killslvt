@@ -21,7 +21,8 @@
 ---
 
 ## About Me
-- **I am a C# WinForms and WPF UI designer with experience in HTML & Python. Recently, I've begun exploring WPF/XAML design to further enhance my skills.**
+- **UI Designer specializing in C# (WinForms & WPF)**  
+- Experienced with **HTML** and **Python**
 
 ---
 
