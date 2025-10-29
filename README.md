@@ -15,7 +15,7 @@
 ---
 
 ## Links
-- [Fail Society](https://killsec.lol/)  
+- [Server](https://discord.gg/myuWgYP8WS)  
 - [Main Site](https://gorestars.lol/)  
 
 ---
