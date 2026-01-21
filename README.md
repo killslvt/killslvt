@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://intruder.lol/">
+  <a href="https://boytoy.wtf/$">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=8B0000&center=true&width=1200&height=140&lines=K+I+L+L+S+L+V+T;X+V+I+I+I" alt="Typing SVG">
   </a>
 </p>
@@ -15,28 +15,27 @@
 ---
 
 ## Links
-- [Server](https://discord.gg/myuWgYP8WS)  
-- [Main Site](https://gorestars.lol/)  
+- **Discord Server:** https://discord.gg/stellar  
+- **Website:** https://boytoy.wtf/$  
 
 ---
 
-## About Me
-- **UI Designer specializing in C# (WinForms & WPF)**  
-- Experienced with **HTML** and **Python**
+## About
+UI designer focused on **C# desktop applications** (WinForms & WPF).  
+Also experienced with **HTML** and **Python**.
 
 ---
 
-## Languages
+## Languages & Tools
 <p align="center">
   <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 </p>
 
 ---
 
-## <3
+## Appreciation
 <p align="center">
   <img alt="gif" width="350px" src="https://media1.tenor.com/m/pJ7-wPmMwo8AAAAd/jvne-jvmo.gif"/>
 </p>
